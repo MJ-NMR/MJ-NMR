@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @MJ-NMR
-- 👀 I’m interested in termux 
-- 🌱 I’m currently learning coding 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+-  Hi, I’m @MJ-NMR
+-  I’m interested in termux 
+-  I’m currently learning ...
 
 <!---
 MJ-NMR/MJ-NMR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
