@@ -4,7 +4,7 @@
 
 ## 🛠️ Tech Stack
 - 💻 Languages: **Python**, **Node.js**, **HTML**, **Bash**
-- 🛠️ Frameworks & Tools: **Express**, **Docker**, **Git**, **Electron**
+- 🛠️ Frameworks & Tools: **Express**, **Docker**, **git**, **Electron**
 - 🗄️ Databases: **MySQL**, **SQLite**
 
 ## 📊 GitHub Stats
