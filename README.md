@@ -3,7 +3,7 @@
 🚀 Tech Enthusiast | Backend Focused | Always Learning
 
 ## 🛠️ Tech Stack
-- 💻 Languages: **Python**, **Node.js**, **HTML**, **Bash**
+- 💻 Languages: **Python**, **Node.js**, **GO**, **Bash**
 - 🛠️ Frameworks & Tools: **Express**, **Docker**, **git**, **Electron**
 - 🗄️ Databases: **MySQL**, **SQLite**
 
