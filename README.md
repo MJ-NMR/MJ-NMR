@@ -10,7 +10,6 @@
 - 🗄️ Databases: **POSTGRESQL**, **SQLite**
 
 ## 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MJ-NMR&layout=compact&theme=radical)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MJ-NMR&theme=radical)
 
 ---
