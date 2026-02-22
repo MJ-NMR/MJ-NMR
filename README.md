@@ -1,42 +1,64 @@
-<div style="position: relative; text-align: center; height: 500px;">
-    <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
-        <h1 style="font-size: 8em; margin: 0; color: #4ade80; text-shadow: 0 0 20px rgba(74, 222, 128, 0.5); font-weight: 800;">Zaater</h1>
-    </div>
-    <span style="position: absolute; top: 10%; left: 15%; color: #00add8">Go</span>
-    <span style="position: absolute; top: 80%; left: 85%; color: #2496ed">Docker</span>
-    <span style="position: absolute; top: 25%; left: 70%; color: #68a063">Node</span>
-    <span style="position: absolute; top: 5%; left: 80%; color: #3178c6;">Typescript</span>
-    <span style="position: absolute; top: 90%; left: 10%; color: #fcc624;">Linux</span>
-    <span style="position: absolute; top: 50%; left: 5%; color: #739d00;">Nmap</span>
-    <span style="position: absolute; top: 30%; left: 20%; color: #4e9a06;">Bash</span>
-    <span style="position: absolute; top: 70%; left: 60%; color: #ff6633;">BurpSuite</span>
-    <span style="position: absolute; top: 15%; left: 40%; color: #ffde57;">Python</span>
-    <span style="position: absolute; top: 70%; left: 90%; color: #1679a7;">Wireshark</span>
-    <span style="position: absolute; top: 30%; left: 50%; color: #f05032;">git</span>
-    <span style="position: absolute; top: 85%; left: 30%; color: #000000;">SSH</span>
-    <span style="position: absolute; top: 5%; left: 5%; color: #ee0000;">tcpdump</span>
-    <span style="position: absolute; top: 95%; left: 95%; color: #003b57;">Sqlite</span>
-    <span style="position: absolute; top: 75%; left: 25%; color: #336791;">Postgresql</span>
-    <span style="position: absolute; top: 20%; left: 85%; color: #ffffff;">Expressjs</span>
-    <span style="position: absolute; top: 80%; left: 15%; color: #9feaf9;">Electronjs</span>
-    <span style="position: absolute; top: 35%; left: 65%; color: #3366cc; ">htmx</span>
-    <span style="position: absolute; top: 65%; left: 30%; color: #a855f7;">Sockets</span>
-    <span style="position: absolute; top: 10%; left: 65%; color: #ef4444;">SetToolKit</span>
-    <span style="position: absolute; top: 90%; left: 40%; color: #fbbf24;">Math</span>
-    <span style="position: absolute; top: 40%; left: 5%; color: #60a5fa;">Physics</span>
-    <span style="position: absolute; top: 55%; left: 80%; color: #f472b6;">Electric Engneering</span>
-    <span style="position: absolute; top: 20%; left: 35%; color: #000080;">lua</span>
-    <span style="position: absolute; top: 80%; left: 50%; color: #e34f26;">html</span>
-    <span style="position: absolute; top: 30%; left: 80%; color: #e95420;">i3</span>
-    <span style="position: absolute; top: 70%; left: 10%; color: #57a143;">Neovim</span>
-    <span style="position: absolute; top: 15%; left: 90%; color: #1bb91b;">tmux</span>
-    <span style="position: absolute; top: 85%; left: 65%; color: #1793d1;">Arch Linux</span>
-    <span style="position: absolute; top: 50%; left: 95%; color: #94a3b8;">IPC</span>
-    <span style="position: absolute; top: 5%; left: 30%; color: #818cf8;">TUI</span>
-    <span style="position: absolute; top: 95%; left: 55%; color: #cbd5e1;">CLI</span>
-    <span style="position: absolute; top: 60%; left: 20%; color: #47a248;">Mongodb</span>
-    <span style="position: absolute; top: 40%; left: 85%; color: #f87171;">Template</span>
-    <span style="position: absolute; top: 75%; left: 45%; color: #fb923c;">QUCS</span>
-    <span style="position: absolute; top: 25%; left: 10%; color: #6b7280;">make</span>
-    <span style="position: absolute; top: 90%; left: 75%; color: #cf8205;">x11</span>
+<div align="center">
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 500" width="900" height="500">
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="50%" r="70%">
+      <stop offset="0%" style="stop-color:#0f172a"/>
+      <stop offset="100%" style="stop-color:#020617"/>
+    </radialGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="900" height="500" fill="url(#bg)" rx="16"/>
+
+  <!-- Center title -->
+  <text x="450" y="268" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="80" font-weight="800" fill="#4ade80" filter="url(#glow)" opacity="0.95">Zaater</text>
+
+  <!-- Skills scattered around -->
+  <text x="70"  y="55"  font-family="monospace" font-size="13" fill="#00add8">Go</text>
+  <text x="760" y="440" font-family="monospace" font-size="13" fill="#2496ed">Docker</text>
+  <text x="620" y="130" font-family="monospace" font-size="13" fill="#68a063">Node</text>
+  <text x="710" y="35"  font-family="monospace" font-size="13" fill="#3178c6">TypeScript</text>
+  <text x="55"  y="450" font-family="monospace" font-size="13" fill="#fcc624">Linux</text>
+  <text x="40"  y="255" font-family="monospace" font-size="13" fill="#739d00">Nmap</text>
+  <text x="175" y="155" font-family="monospace" font-size="13" fill="#4e9a06">Bash</text>
+  <text x="625" y="355" font-family="monospace" font-size="13" fill="#ff6633">BurpSuite</text>
+  <text x="360" y="80"  font-family="monospace" font-size="13" fill="#ffde57">Python</text>
+  <text x="820" y="360" font-family="monospace" font-size="13" fill="#1679a7">Wireshark</text>
+  <text x="460" y="155" font-family="monospace" font-size="13" fill="#f05032">git</text>
+  <text x="145" y="432" font-family="monospace" font-size="13" fill="#94a3b8">SSH</text>
+  <text x="28"  y="28"  font-family="monospace" font-size="13" fill="#ee0000">tcpdump</text>
+  <text x="835" y="490" font-family="monospace" font-size="13" fill="#003b57">SQLite</text>
+  <text x="210" y="382" font-family="monospace" font-size="13" fill="#336791">PostgreSQL</text>
+  <text x="750" y="105" font-family="monospace" font-size="13" fill="#eeeeee">Express.js</text>
+  <text x="100" y="403" font-family="monospace" font-size="13" fill="#9feaf9">Electron.js</text>
+  <text x="575" y="185" font-family="monospace" font-size="13" fill="#3366cc">htmx</text>
+  <text x="525" y="335" font-family="monospace" font-size="13" fill="#a855f7">Sockets</text>
+  <text x="580" y="58"  font-family="monospace" font-size="13" fill="#ef4444">SetToolKit</text>
+  <text x="355" y="458" font-family="monospace" font-size="13" fill="#fbbf24">Math</text>
+  <text x="35"  y="205" font-family="monospace" font-size="13" fill="#60a5fa">Physics</text>
+  <text x="700" y="285" font-family="monospace" font-size="13" fill="#f472b6">Electrical Eng.</text>
+  <text x="300" y="108" font-family="monospace" font-size="13" fill="#8080c0">lua</text>
+  <text x="710" y="408" font-family="monospace" font-size="13" fill="#e34f26">HTML</text>
+  <text x="730" y="155" font-family="monospace" font-size="13" fill="#e95420">i3wm</text>
+  <text x="60"  y="355" font-family="monospace" font-size="13" fill="#57a143">Neovim</text>
+  <text x="830" y="82"  font-family="monospace" font-size="13" fill="#1bb91b">tmux</text>
+  <text x="760" y="465" font-family="monospace" font-size="13" fill="#1793d1">Arch Linux</text>
+  <text x="848" y="258" font-family="monospace" font-size="13" fill="#94a3b8">IPC</text>
+  <text x="255" y="28"  font-family="monospace" font-size="13" fill="#818cf8">TUI</text>
+  <text x="480" y="492" font-family="monospace" font-size="13" fill="#cbd5e1">CLI</text>
+  <text x="520" y="305" font-family="monospace" font-size="13" fill="#47a248">MongoDB</text>
+  <text x="755" y="210" font-family="monospace" font-size="13" fill="#f87171">Template</text>
+  <text x="660" y="385" font-family="monospace" font-size="13" fill="#fb923c">QUCS</text>
+  <text x="210" y="58"  font-family="monospace" font-size="13" fill="#6b7280">make</text>
+  <text x="815" y="465" font-family="monospace" font-size="13" fill="#cf8205">x11</text>
+</svg>
+
 </div>
