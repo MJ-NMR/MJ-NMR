@@ -1,17 +1,43 @@
-# Hi there, I'm Zaater 👋
+<div style="position: relative; text-align: center; height: 500px;">
+    <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
+        <h1 style="font-size: 8em; margin: 0;">Zaater</h1>
+    </div>
+    <span style="position: absolute; top: 10%; left: 15%;">Go</span>
+    <span style="position: absolute; top: 80%; left: 85%;">Docker</span>
+    <span style="position: absolute; top: 25%; left: 70%;">Node</span>
+    <span style="position: absolute; top: 5%; left: 80%;">Typescript</span>
+    <span style="position: absolute; top: 90%; left: 10%;">Linux</span>
+    <span style="position: absolute; top: 50%; left: 5%;">Nmap</span>
+    <span style="position: absolute; top: 30%; left: 20%;">Bash</span>
+    <span style="position: absolute; top: 70%; left: 60%;">BurpSuite</span>
+    <span style="position: absolute; top: 15%; left: 40%;">Python</span>
+    <span style="position: absolute; top: 70%; left: 90%;">Wireshark</span>
+    <span style="position: absolute; top: 30%; left: 50%;">git</span>
+    <span style="position: absolute; top: 85%; left: 30%;">SSH</span>
+    <span style="position: absolute; top: 5%; left: 5%;">tcpdump</span>
+    <span style="position: absolute; top: 95%; left: 95%;">Sqlite</span>
+    <span style="position: absolute; top: 75%; left: 25%;">Postgresql</span>
+    <span style="position: absolute; top: 20%; left: 85%;">Expressjs</span>
+    <span style="position: absolute; top: 80%; left: 15%;">Electronjs</span>
+    <span style="position: absolute; top: 35%; left: 60%;">HTMX</span>
+    <span style="position: absolute; top: 65%; left: 30%;">Sockets</span>
+    <span style="position: absolute; top: 10%; left: 65%;">SetToolKit</span>
+    <span style="position: absolute; top: 90%; left: 40%;">Math</span>
+    <span style="position: absolute; top: 45%; left: 10%;">Physics</span>
+    <span style="position: absolute; top: 55%; left: 80%;">Electric Engneering</span>
+    <span style="position: absolute; top: 20%; left: 35%;">lua</span>
+    <span style="position: absolute; top: 80%; left: 50%;">html</span>
+    <span style="position: absolute; top: 30%; left: 80%;">i3</span>
+    <span style="position: absolute; top: 70%; left: 10%;">Neovim</span>
+    <span style="position: absolute; top: 15%; left: 90%;">Tmux</span>
+    <span style="position: absolute; top: 85%; left: 65%;">Arch Linux</span>
+    <span style="position: absolute; top: 50%; left: 95%;">IPC</span>
+    <span style="position: absolute; top: 5%; left: 30%;">TUI</span>
+    <span style="position: absolute; top: 95%; left: 55%;">CLI</span>
+    <span style="position: absolute; top: 60%; left: 20%;">Mongodb</span>
+    <span style="position: absolute; top: 40%; left: 85%;">Template</span>
+    <span style="position: absolute; top: 75%; left: 45%;">QUCS</span>
+    <span style="position: absolute; top: 25%; left: 10%;">make</span>
+    <span style="position: absolute; top: 90%; left: 75%;">x11</span>
+</div>
 
-🚀 Tech Enthusiast | Backend Focused | Always Learning
-
-## 🛠️ Tech Stack
-- 💻 Languages: **Python**, **Node**, **GO**
-- 🛠️ Frameworks: **Express**, **Electron**
--   DevOps & System Administration: **Linux**, **Docker**, **git**, **Bash**
-- 󰒃 Network & Securety: **ssh**, **tcpdump**, **Wireshark**, **BurpSuite**, **SetToolKit**, **nmap**
-- 🗄️ Databases: **POSTGRESQL**, **SQLite**
-
-## 📊 GitHub Stats
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MJ-NMR&theme=radical)
-
----
-
-> "A MAN WHO KNOWS AND KNOWS THAT HE KNOWS."
